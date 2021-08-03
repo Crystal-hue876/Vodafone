@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'crystaldemo'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_14ed1d7b5536446296c2842f2f6a5049 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5f21bd7c44ce4bd68f8fde416bc96bd0 }}
         package: .
